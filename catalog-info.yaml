@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: Mips-processor-simulator
+  annotations:
+    github.com/project-slug: karimAbdel-Qader/Mips-processor-simulator
+spec:
+  type: other
+  lifecycle: unknown
+  owner: Karim
