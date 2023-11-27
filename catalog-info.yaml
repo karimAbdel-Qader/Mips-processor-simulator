@@ -8,3 +8,6 @@ spec:
   type: other
   lifecycle: unknown
   owner: Karim
+metadata:
+  annotations:
+    backstage.io/techdocs-ref: dir:.
