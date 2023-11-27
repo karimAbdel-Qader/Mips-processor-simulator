@@ -4,10 +4,9 @@ metadata:
   name: Mips-processor-simulator
   annotations:
     github.com/project-slug: karimAbdel-Qader/Mips-processor-simulator
+    backstage.io/techdocs-ref: dir:.
 spec:
   type: other
   lifecycle: unknown
   owner: Karim
-metadata:
-  annotations:
-    backstage.io/techdocs-ref: dir:.
+    
