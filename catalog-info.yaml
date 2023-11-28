@@ -9,3 +9,4 @@ spec:
   type: other
   lifecycle: unknown
   owner: Admin
+  description: Mips processor simulator using Logisim for circuits designing and simulation
